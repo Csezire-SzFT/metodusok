@@ -12,7 +12,6 @@ def koszones_siman ():
     jokivansag()
 
 def koszones_feltetelekkel (siker):
-g
     koszones()
     if siker:
         jokivansag()
