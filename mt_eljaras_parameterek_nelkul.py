@@ -6,13 +6,13 @@ def koszones():
 def jokivansag():
     print ("Boldog Új Évet!")
 
-def feladat ():
+def koszones_siman ():
     print("Szeva")
     koszones()
     jokivansag()
 
-def feladat_2 (siker):
-    print("Szeva")
+def koszones_feltetelekkel (siker):
+g
     koszones()
     if siker:
         jokivansag()
@@ -20,8 +20,6 @@ def feladat_2 (siker):
         koszones()
 
 # hivás
-feladat()
+koszones_siman()
 
-feladat_2(True)
-
-
+koszones_feltetelekkel(True)
